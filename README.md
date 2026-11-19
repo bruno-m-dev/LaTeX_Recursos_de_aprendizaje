@@ -1,6 +1,6 @@
 # APRENDER LaTeX - RECURSOS 
 
-![Latex img](logolatex.png)
+![Latex img](logoLatex.png)
 
 ## LINKS
 
