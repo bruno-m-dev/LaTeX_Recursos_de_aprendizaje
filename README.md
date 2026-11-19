@@ -1,2 +1,2 @@
-# LaTEX_Recursos-y-Gu-as
+# LaTEX_Recursos_y_guias_aprendizaje
 Recursos para el aprendizaje de Latex
