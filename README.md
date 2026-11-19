@@ -1,2 +1,5 @@
-# LaTEX_Recursos_y_guias_aprendizaje
-Recursos para el aprendizaje de Latex
+# APRENDER LaTeX - RECURSOS 
+
+## LINKS
+
+1. **[Lista de reproducción en Youtube](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet "AdamP - GitHub").**
