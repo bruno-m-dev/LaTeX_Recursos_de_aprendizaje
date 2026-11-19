@@ -1,6 +1,6 @@
 # APRENDER LaTeX - RECURSOS 
 
-![Latex img](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)
+![Latex img](https://cdn.freebiesupply.com/logos/large/2x/latex-1-logo-png-transparent.png)
 
 ## LINKS
 
