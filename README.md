@@ -4,9 +4,7 @@
 
 ## TeX, el origen de todo.
 
-    TeX es un sistema de composición tipográfica creado por Donald Knuth, científico de la computación y profesor de la Universidad de Stanford.
-    Finalizado en su mayor parte hacia 1990.la versión actualizada, lanzada en 2021 es la 3.141592653.
-    EL nombre "TeX" viene del griego, según está escrito en su manual oficial, "The TeXbook". 
+TeX es un sistema de composición tipográfica creado por Donald Knuth, científico de la computación y profesor de la Universidad de Stanford. Finalizado en su mayor parte hacia 1990.la versión actualizada, lanzada en 2021 es la 3.141592653. EL nombre "TeX" viene del griego, según está escrito en su manual oficial, "The TeXbook". 
     
 
 #### LINKS TEX:
@@ -24,7 +22,7 @@
 ## LaTex. La ampliación del proyecto original. 
 
 
-    LaTeX es un software de código abierto basado en TeX, creado por el matemático y científico de la computación, Leslie Lamport, en el año 1984. Fue diseñado para facilitar el uso de TeX en la creación de documentos científicos y técnicos de alta calidad tipográfica. Posteriormente, en 1993 se anunció la reestandarización del proyecto unificando los distintos dialectos de LaTex surgidos durante la decada enterior. 
+LaTeX es un software de código abierto basado en TeX, creado por el matemático y científico de la computación, Leslie Lamport, en el año 1984. Fue diseñado para facilitar el uso de TeX en la creación de documentos científicos y técnicos de alta calidad tipográfica. Posteriormente, en 1993 se anunció la reestandarización del proyecto unificando los distintos dialectos de LaTex surgidos durante la decada enterior. 
 
 #### LINKS LaTEX:
 
